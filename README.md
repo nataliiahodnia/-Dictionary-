@@ -1,5 +1,5 @@
 
-**Simple Dictionary App***
+**Simple Dictionary App**
 This is a simple dictionary application developed in pure JavaScript. It allows users to search for the definitions of words using a free API.
 
 Features
